@@ -18,11 +18,11 @@ This repository contains my Python practice, notes, exercises, and mini-projects
 * [x] Conditional Statements
 * [x] Loops
 * [x] For Loop
-* [ ] While Loop
+* [x] While Loop
 
 ### 🔵 Core Python
 
-* [ ] Functions
+* [x] Functions
 * [ ] Data Structures
 * [ ] Lists
 * [ ] Tuples
@@ -64,11 +64,16 @@ PYTHON-COURSE/
 ├── Input_Output_Operators_5.py
 ├── If_else_statements_6.py
 ├── For_loops_7.py
-| 
-|--> ..........
-|
+├── While_Loops_8.py
+├── Functions_9.py
+├── ...
+├
 └── mini-projects/
+    └── Number Guessing Game
+    └── Basic Calculator
     └── ...
+
+
 ```
 
 The numbered Python files contain my course exercises and practice.
@@ -113,6 +118,7 @@ Projects will be added here as I learn enough concepts to build them independent
 ### Planned / Upcoming
 
 * 🎯 Number Guessing Game
+* Basic Calculator
 * More projects to be added as my Python skills improve
 
 ---
