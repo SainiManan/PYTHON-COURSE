@@ -66,7 +66,16 @@ PYTHON-COURSE/
 ├── For_loops_7.py
 ├── While_Loops_8.py
 ├── Functions_9.py
-├── ...
+├── List/
+├    └── List_10.py
+├    └── List_Questions_01.py
+├    └── List_Questions_02.py
+├    └── List_Questions_03.py
+├    └── List_Questions_04.py
+├    └── List_Questions_05.py
+├
+├── Tuples/
+├    └── Tuples_11.py
 ├
 └── mini-projects/
     └── Number Guessing Game
