@@ -23,9 +23,9 @@ This repository contains my Python practice, notes, exercises, and mini-projects
 ### 🔵 Core Python
 
 * [x] Functions
-* [ ] Data Structures
-* [ ] Lists
-* [ ] Tuples
+* [x] Data Structures
+* [x] Lists
+* [x] Tuples
 * [ ] Sets
 * [ ] Dictionaries
 * [ ] Exception Handling
