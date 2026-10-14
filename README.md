@@ -26,7 +26,7 @@ This repository contains my Python practice, notes, exercises, and mini-projects
 * [x] Data Structures
 * [x] Lists
 * [x] Tuples
-* [ ] Sets
+* [x] Sets
 * [ ] Dictionaries
 * [ ] Exception Handling
 * [ ] File Handling
@@ -76,6 +76,9 @@ PYTHON-COURSE/
 ├
 ├── Tuples/
 ├    └── Tuples_11.py
+├
+├── Sets/
+├    └── Sets_12.py
 ├
 └── mini-projects/
     └── Number Guessing Game
