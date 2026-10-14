@@ -27,7 +27,7 @@ This repository contains my Python practice, notes, exercises, and mini-projects
 * [x] Lists
 * [x] Tuples
 * [x] Sets
-* [ ] Dictionaries
+* [x] Dictionaries
 * [ ] Exception Handling
 * [ ] File Handling
 
@@ -79,7 +79,18 @@ PYTHON-COURSE/
 ├
 ├── Sets/
 ├    └── Sets_12.py
-├
+├ 
+├── Dictionary/
+│   ├── Dictionary_13.py
+│   ├── Dictionary_Question_01.py
+│   ├── Dictionary_Question_02.py
+│   ├── Dictionary_Question_03.py
+│   └── Dictionary_Question_04.py
+│
+├── Practice/
+│   ├── Practice_Questions_Dictionary.py
+│   └── Practice_Questions_List.py
+│ 
 └── mini-projects/
     └── Number Guessing Game
     └── Basic Calculator
